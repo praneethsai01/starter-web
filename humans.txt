@@ -3,8 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> -- <role> student
+	 <twitter>
+praeethsai01
 # THANKS
 
     <name>
