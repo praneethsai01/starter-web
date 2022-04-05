@@ -1,6 +1,6 @@
 ###contirbute
 plese clone this repo
-## copyirhgt 
+## copyirhgt stashing is being done
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
