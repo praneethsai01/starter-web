@@ -5,7 +5,7 @@ plese clone this repo
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purpose more cahngess
 rebasing fsdbgjshgnrgrgrsgvsrgrsffs
 
 Sample website with plenty of files for demos
